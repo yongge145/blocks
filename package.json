@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/caiyong-block",
+  "version": "0.0.1",
+  "description": "ceshi",
+  "main": "src/index.js",
+  "authors": {
+    "name": "caiyong",
+    "email": "1044656979@qq.com"
+  },
+  "repository": "umi-blocks/caiyong-block",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}
